@@ -53,9 +53,12 @@ I'm an undergraduate AI engineering student at Mansoura National University, dee
 
 ---
 
-### 🔗 Connect with Me
+### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ahmed-mansour-7a29a9271/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-ahmed-mansour-7a29a9271/)
 
 ---
 
+### 🎨 Visuals & Banners
+
+To enhance your GitHub profile, consider adding the following visuals at the top:
